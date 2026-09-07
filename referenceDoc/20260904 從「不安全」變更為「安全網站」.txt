@@ -1,5 +1,5 @@
-Chrome: chrome://flags/#unsafely-treat-insecure-origin-as-secure
-Edge: edge://flags/#unsafely-treat-insecure-origin-as-secure
+Chrome輸入 chrome://flags/#unsafely-treat-insecure-origin-as-secure
+Edge輸入 edge://flags/#unsafely-treat-insecure-origin-as-secure
 
 找到 "Insecure origins treated as secure" => 將其狀態從 Disabled 改為 Enabled。
 
