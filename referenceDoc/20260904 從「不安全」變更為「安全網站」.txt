@@ -1,0 +1,9 @@
+Chrome: chrome://flags/#unsafely-treat-insecure-origin-as-secure
+Edge: edge://flags/#unsafely-treat-insecure-origin-as-secure
+
+找到 "Insecure origins treated as secure" => 將其狀態從 Disabled 改為 Enabled。
+
+在下方的文字輸入框中，輸入你的網站來源（包含通訊協定與端口）：
+http://10.10.2.245:8080
+
+點擊瀏覽器右下角的 Relaunch（重新啟動） 按鈕。
